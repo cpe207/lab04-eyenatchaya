@@ -12,6 +12,7 @@ function primeNumber(d) {
     }
     return "YES";
 }
+
 var d1 = 10;
 var d2 = 29;
 var d3 = 2;

@@ -10,6 +10,7 @@ function typeChecker(a, b) {
     }
     return 0;
 }
+
 var a1 = "Jack";
 var b1 = "Rose";
 var a2 = 555;

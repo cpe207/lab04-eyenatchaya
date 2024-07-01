@@ -6,6 +6,7 @@ function arrayStringify(c) {
     }
     return x;
 }
+
 var c1 = [1, 2, 3];
 var c2 = [10, 9, 8, 7, 6, 5];
 var c3 = [];
